@@ -1,0 +1,21 @@
+{
+	"name": "Athletes3",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AthletesHTTP3",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
