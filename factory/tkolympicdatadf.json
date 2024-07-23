@@ -1,0 +1,9 @@
+{
+	"name": "tkolympicdatadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a7eca9a5-6a4d-4a58-aa64-491ae9b00c10",
+		"tenantId": "59462223-1938-4e2b-938c-03acb18b3218"
+	}
+}
